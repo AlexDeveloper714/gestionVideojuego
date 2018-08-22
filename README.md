@@ -1,4 +1,7 @@
 # tutoriasonline
+
+[![Join the chat at https://gitter.im/gestionVideojuego/Lobby](https://badges.gitter.im/gestionVideojuego/Lobby.svg)](https://gitter.im/gestionVideojuego/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 >*PHP web page that automatizate 
 process to search info and use Google Maps 
 API in order to do easy stuff* 
